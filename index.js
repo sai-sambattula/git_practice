@@ -1,1 +1,5 @@
-console.log("Hellooo");
+console.log('fffff');
+
+function fun() {
+    
+}

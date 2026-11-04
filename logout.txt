@@ -1,4 +1,4 @@
-Code Was Developed By Dev B and DEv A
+Code Was Developed By Dev b and DEv A
 added Logout Functionality 
 
 code was modifed by DEV-A
